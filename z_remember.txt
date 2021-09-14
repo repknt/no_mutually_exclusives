@@ -1,8 +1,8 @@
 # Leader traits
-mutually_exclusive = 
+mutually_exclusive = x
 
 # National focuses
-mutually_exclusive = {  }
+mutually_exclusive = { focus = x }
 
 # Technologies
-xor = {  }
+xor = { x }
